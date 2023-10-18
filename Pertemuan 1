@@ -11,7 +11,7 @@ Luas= panjang * lebar
 Keliling= (panjang + lebar) * 2
 
 #output
-print("panjang: " panjang)
-print("lebar: " lebar)
-print("Luas: " Luas)
-print("Keliling: " keliling)
+print("panjang: ", panjang)
+print("lebar: ", lebar)
+print("Luas: ", Luas)
+print("Keliling: ", Keliling)
